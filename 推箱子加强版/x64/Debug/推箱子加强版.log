@@ -1,0 +1,7 @@
+﻿  推箱子.cpp
+g:\高端操作\推箱子加强版\推箱子加强版\推箱子.cpp(49): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+g:\高端操作\推箱子加强版\推箱子加强版\推箱子.cpp(124): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  推箱子加强版.vcxproj -> G:\高端操作\推箱子加强版\x64\Debug\推箱子加强版.exe
+  推箱子加强版.vcxproj -> G:\高端操作\推箱子加强版\x64\Debug\推箱子加强版.pdb (Full PDB)
